@@ -1,10 +1,3 @@
-<div align="center">
-    <a href="https://gsap-crash-course.vercel.app" target="_blank">
-      <img src="public/preview.png" alt="Project Banner">
-    </a>
-  <h3 align="center">GSAP Workshop (Starter)</h3>
-</div>
-
 ##  <br /> 📋 <a name="table">Table of Contents</a>
 
 - ✨ [Introduction](#introduction)
