@@ -40,7 +40,7 @@ Make sure you have the following installed on your machine:
 
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter.git
+git clone https://github.com/nasii05/gsap-basics.git
 cd gsap-cc-starter
 ```
 
